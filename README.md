@@ -1,2 +1,2 @@
-# E-Commerce
-E-Commerce for Craftsmen 
+# E-Commerce  for Craftsmen 
+Uncompleted E-Commerce project
